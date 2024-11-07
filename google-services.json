@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511025382457",
+    "project_id": "flight-club-app",
+    "storage_bucket": "flight-club-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511025382457:android:ee69714b25dc37038279e8",
+        "android_client_info": {
+          "package_name": "com.G3vans16.FlightClubApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhTtvQpGJFjlZIzOFQkZdPeJ8mCqjgKKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
